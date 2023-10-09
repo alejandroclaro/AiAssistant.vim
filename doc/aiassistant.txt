@@ -1,0 +1,60 @@
+*aiassistant.txt*                  A plugin for coding assistance using OpenAI.
+
+
+                           AIAssistant.vim
+
+
+Author:            Alejandro Claro <https://github.com/alejandroclaro>
+Plugin Homepage:   <https://github.com/alejandroclaro/vim-aiassistant>
+
+
+===============================================================================
+CONTENTS                                                          *aiassistant*
+
+  Introduction ................. |aiassistant-introduction|
+  Installation ................. |aiassistant-installation|
+  Commands ..................... |aiassistant-commands|
+  Mappings ..................... |aiassistant-mappings|
+  Options ...................... |aiassistant-options|
+  FAQ .......................... |aiassistant-faq|
+  TROUBLESHOOTING .............. |aiassistant-troubleshooting|
+
+
+===============================================================================
+INTRODUCTION                                         *aiassistant-introduction*
+
+
+===============================================================================
+INSTALLATION                                         *aiassistant-installation*
+
+
+Use your favourite package manager, or use Vim's built-in package support.
+
+Vim:~
+>
+  mkdir -p ~/.vim/pack/aclaro/start
+  cd ~/.vim/pack/aclaro/start
+  git clone https://github.com/alejandroclaro/vim-ai-assistant
+  vim -u NONE -c "helptags vim-ai-assistant/doc" -c q
+<
+
+===============================================================================
+COMMANDS                                                 *aiassistant-commands*
+
+
+===============================================================================
+MAPPINGS                                                 *aiassistant-mappings*
+
+
+===============================================================================
+OPTIONS                                                   *aiassistant-options*
+
+
+===============================================================================
+FAQ                                                           *aiassistant-faq*
+
+
+===============================================================================
+TROUBLESHOOTING                                   *aiassistant-troubleshooting*
+
+
